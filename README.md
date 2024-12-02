@@ -38,4 +38,4 @@ The `script.js` file includes:
 
 Below is an example of the Decimal to Binary Converter in action:
 
-![Screenshot of the Decimal to Binary Converter](./src/screenrecord.mp4)
+![Screenshot of the Decimal to Binary Converter](./src/screenrecord.gif)
